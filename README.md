@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 I’m student at **Universitas Bina Sarana Informatika - D3 Information System**
+- 👨‍🎓 Currently studying at **Universitas Bina Sarana Informatika - D3 Information System**
 
-- ⚡ Fun fact **I'm a cat lover 🐈**
+- ⚡ Fun fact **I'm a cat lover and a bit weeaboo 🤭**
 
 - 📫 How to reach me **julianrizkipratama@gmail.com**
 
