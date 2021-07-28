@@ -24,7 +24,8 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a> 
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="44" height="44"/> </a>
-    <a href="https://codeigniter.com/" target="_blank"> <img src="https://i.imgur.com/duqKlRW.png" alt="codeigniter" /> </a>  
+    <a href="https://codeigniter.com/" target="_blank"> <img src="https://i.imgur.com/duqKlRW.png" alt="codeigniter" /> </a> 
+    <a href="https://laravel.com" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/laravel.png"/> </a> 
     <a href="https://redis.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redis.png"/> </a>
 </p>
 
